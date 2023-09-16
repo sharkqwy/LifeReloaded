@@ -1,1 +1,1 @@
-该目录用于存放游戏预览截图
+Used for screenshots of the game
