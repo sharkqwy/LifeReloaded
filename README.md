@@ -55,8 +55,6 @@ Each character also gets a unique poem.
 
 <img src="./previews/birth.png" alt="Birth Scene" width="500">
 
-<img src="./previews/birth2.png" alt="Another Birth Scene" width="500">
-
 #### Events
 
 The player encounters different events at different life stages and can react to them.
@@ -69,9 +67,7 @@ Every choice will change the character's life path or stats, so choose wisely!
 
 <img src="./previews/childhood_2.png" alt="Childhood 2" width="500">
 
-<img src="./previews/earlyadulthood.png" alt="Early Adulthood" width="500">
-
-<img src="./previews/mid_adulthood.png" alt="Mid Adulthood" width="500">
+<img src="./previews/early_adulthood.png" alt="Early Adulthood" width="500">
 
 <img src="./previews/late_adulthood.png" alt="Late Adulthood" width="500">
 
