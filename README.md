@@ -1,103 +1,106 @@
-## 🐱🐹人生重来模拟器 LifeReloaded🐹🐱
 
-### 🌟 引子
+## 🐱🐹 Life Reloaded - A Life Simulation Game 🐹🐱
 
-> “人生如梦，万事皆空；不过，'空'中便有万事万物。”  
-> 如果你曾对人生有过无数的“如果”和“要是”，**人生重来模拟器 LifeReloaded** 给你一个重开的机会，焕发人生第二春！
+### 🌟 Introduction
+
+> "Life is but a dream and everything is empty; however, in this 'emptiness' lies everything in the universe."  
+
+> If you've ever had countless "what if" and "if only" about your life, **Life Reloaded** gives you a chance to restart and relive your life!
 
 ---
 
-### 🌈 项目概览
-该项目是一个使用GPT-4 Advanced Data Analysis（原Code Interpreter）功能驱动的模拟人生游戏。
+### 🌈 Overview 
 
-游戏内容由顶尖人工智能 GPT4 实时生成，给您包罗万象，丰富多彩的真实人生体验。
+This project is a life simulation game powered by GPT-4's Advanced Data Analysis (formerly Code Interpreter) feature. 
 
-- **项目名称**: 人生重来模拟器 LifeReloaded
-- **版本**: 0.1 beta
-- **核心驱动**: GPT-4 Advanced Data Analysis
-- **作者**: [陈财猫🐱](https://okjk.co/RBfY7P)
+The game content is generated in real-time by state-of-the-art AI GPT-4, giving you a rich and colorful life experience.
 
-### 🚀 特性
+- **Project Name**: Life Reloaded 
+- **Version**: 0.1 beta
+- **Core Driver**: GPT-4 Advanced Data Analysis
+- **Original Author**: [陈财猫🐱](https://okjk.co/RBfY7P)
+- **Translation**: [sharqwy](https://twitter.com/sharqwy)
 
-1. **文学与人工智能的完美融合**: 精选的现代汉语文学风格，让你身临其境。
-2. **利用发展心理学进行角色塑造**: 游戏内的人物不是单一的NPC，而是有背景，有立场，有情感的“人”。
-3. **多元化的人生路径**: 从学业到职场，从爱情到家庭，每一个选择都会影响你的人生。
-4. **随机性与可玩性**: 利用GPT-4的高级数据分析（原code interpreter）功能，由顶尖AI生成包罗万象的丰富人生，事件与属性真·随机。每一次游戏都是全新的体验。
+### 🚀 Features
 
-### 📥 安装与运行
-要运行游戏， 请打开GPT-4 的 [Advanced Data Analysis（原 Code Interpreter）功能](https://chat.openai.com/?model=gpt-4-code-interpreter)
-，并将[LifeReloaded.txt](https://github.com/hamutama/LifeReloaded/blob/main/LifeReloaded.txt)中的所有内容复制粘贴进对话框中运行。
+1. **Perfect integration of literature and AI**: Carefully crafted modern Chinese literary style immerses you into the game.
 
-#### 前置条件
+2. **Character building based on developmental psychology**: The characters in the game are not simple NPCs, but have backgrounds, stances, and emotions - they are "people".
 
-⚠️ **请务必开启 GPT-4 的 Advanced Data Analysis（原 Code Interpreter）功能，否则本游戏无法正常运行。目前该功能仅向ChatGPT Plus用户开放。**
+3. **Diverse life paths**: From academics to career, from love to family, every choice impacts your life journey. 
 
-#### 获取更新
+4. **Randomness and playability**: GPT-4's advanced data analysis generates abundant life events and attributes on the fly. Each gameplay is a brand new experience.
 
-🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/hamutama/LifeReloaded) 或向公众号 [财猫AI](https://mp.weixin.qq.com/s/yMZ-Skk6mEa4tQPkHDtFTg) 发送“LifeReloaded”以取得最新版本。
+### 📥 Installation and Setup
 
-### 🎮游戏预览
+To run the game, open GPT-4's [Advanced Data Analysis (formerly Code Interpreter)](https://chat.openai.com/?model=gpt-4-code-interpreter) and copy-paste the full content of [LifeReloaded.txt](https://github.com/sharkqwy/LifeReloaded/blob/main/LifeReloaded.txt) into the chatbox. 
 
-下面是一些游戏预览的截图。由于大语言模型的随机性，您的游戏体验可能会由于运气上下波动。
+#### Prerequisites
 
-#### 初始化
+⚠️ **You must enable GPT-4's Advanced Data Analysis (formerly Code Interpreter). Currently, it's only available to ChatGPT Plus users.**
 
-每次进入游戏时，系统会真·随机为玩家生成与分配性别，出生地点，初始属性，家庭背景等。
+#### Get Updates
 
-此外，每个人都会获得一首属于自己的独一无二的诗。
+🔗 This project gets updated periodically. Please visit the [GitHub repo](https://github.com/sharkqwy/LifeReloaded).
+
+### 🎮 Game Preview
+
+Here are some screenshots of the game. Your experience may vary due to the randomness of large language models. 
+
+#### Initialization 
+
+At the beginning of each game, the system randomly generates and assigns the player's gender, birthplace, initial stats, family background, etc.
+
+Each character also gets a unique poem.
 
 <img src="./previews/birth.png" alt="Birth Scene" width="500">
 
 <img src="./previews/birth2.png" alt="Another Birth Scene" width="500">
 
-#### 事件
+#### Events
 
-玩家会在不同的人生阶段遇到不同的事件，可以对事件做出反应。
-每个事件与选项都是由GPT4 Code Interpreter 实时生成的。
-您的每一个选择都会改变人物的人生走向或属性，请谨慎选择。
+The player encounters different events at different life stages and can react to them.
+
+All events and options are generated on the fly by GPT4 Code Interpreter. 
+
+Every choice will change the character's life path or stats, so choose wisely!
 
 <img src="./previews/childhood.png" alt="Childhood 1" width="500">
+
 <img src="./previews/childhood_2.png" alt="Childhood 2" width="500">
+
 <img src="./previews/earlyadulthood.png" alt="Early Adulthood" width="500">
+
 <img src="./previews/mid_adulthood.png" alt="Mid Adulthood" width="500">
+
 <img src="./previews/late_adulthood.png" alt="Late Adulthood" width="500">
 
-### 🤝 开源与合作
 
-🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [LangGPT](http://feishu.langgpt.ai) 为姊妹项目。
+### 🤝 Open Source & Collaboration 
 
-请点击[链接](https://github.com/yzfly/LangGPT)访问LangGPT项目GitHub仓库。
+🔗 This game is supported by the [EmbraceAGI](https://github.com/EmbraceAGI) open source community, and is a sister project to [LangGPT](http://feishu.langgpt.ai).
 
-### 📜 协议
+Please visit the [LangGPT GitHub repo](https://github.com/yzfly/LangGPT) for details.
 
-🔗 本项目使用 [CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源。
+### 📜 License
 
-### 💌 联系作者
+🔗 This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-如有任何疑问或建议，请通过以下方式联系我：
-
-- 📧 Email: [陈财猫🐱](mailto:hamusuta@bupt.cn)
-- 📞 微信公众号: [财猫AI](https://mp.weixin.qq.com/s/yMZ-Skk6mEa4tQPkHDtFTg)
 
 ---
-### 广告时间
-
-我会在我的微信公众号[财猫AI](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxNTU1MTY3OA==&action=getalbum&album_id=3086731117975814150&scene=173&from_msgid=2247484520&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
-上更新一系列提示工程文章，敬请关注。
-
-此外，你可以在微信读书上读到我的出版书籍《ChatGPT进阶 提示工程入门》，也可以通过电商渠道购买。
-<img src="./previews/book.jpeg" alt="Book Display" width="300">
 
 ### Special Thanks
 
-- [Mr.renedeer项目](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)，这个才华横溢的Prompt给了我很大启发。
-- 《红楼梦》作者曹雪芹，是他启发我在文中可以插入诗歌。
-- “南瓜博士”公众号，她的“可以使用Code Interpreter做一个[人生重来模拟器的Idea](https://mp.weixin.qq.com/s/gV6xvVVqG8djdmB6EAuZKw)”直接催生了本项目，[该公众号的高质量文章们](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzA4MjM5MDI0Ng==&scene=1&album_id=3104850832623386631&count=3#wechat_redirect)也给我一些启发。
-- [刘海同学](https://nanfangshaonian.feishu.cn/wiki/WkKAwJ90uidtzVkM9IecSZB5nbg)分享的[伪代码提示词文章](https://nanfangshaonian.feishu.cn/wiki/YhNdws9LCi1JxGkpJ8dcXB3Gnih)
-给了本Prompt一些启发。
+- [Mr. Ranedeer AI Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) project - the talented prompts inspired me a lot.
+
+- Cao Xueqin, author of Dream of the Red Chamber - inspired me to insert poems in the writing.
+
+- "Dr. Pumpkin" Official Account - her idea of ["using Code Interpreter to build a life simulation game"](https://mp.weixin.qq.com/s/gV6xvVVqG8djdmB6EAuZKw) directly gave birth to this project. Her [high quality articles](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzA4MjM5MDI0Ng==&scene=1&album_id=3104850832623386631&count=3#wechat_redirect) also inspired me.
+
+- [Liu Hai](https://nanfangshaonian.feishu.cn/wiki/WkKAwJ90uidtzVkM9IecSZB5nbg)'s article on [pseudo code prompts](https://nanfangshaonian.feishu.cn/wiki/YhNdws9LCi1JxGkpJ8dcXB3Gnih) gave me some inspiration for this prompt.
 
 ---
 
-🎮 **不要再等了，快来体验一把你的第二人生吧！**
+🎮 **Don't wait any longer - come experience your second life now!** 
 
 ---
